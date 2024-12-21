@@ -1,3 +1,14 @@
+ ## Task 1: An Analog Watch Face
+
+An analog watch face (using watch hand and index), which shows the Battery Level of the
+watch. Change the color of the Battery Level to red if the battery level is equal to or less than 20%.
+
+### Watch Face 20
+![Watch Face 20](https://github.com/habibur-rahman-swe/samsung-assesment-intern/blob/main/watch_face_20.png)
+
+### Watch Face 86
+![Watch Face 86](https://github.com/habibur-rahman-swe/samsung-assesment-intern/blob/main/watch_face_86.png)
+
 
 # Dynamic Watch Faces with Tag Expressions
 Creating compelling watch faces goes beyond static designs. Tag expressions in Watch Face Studio empower designers like you to achieve this dynamism without writing a single line of code.
