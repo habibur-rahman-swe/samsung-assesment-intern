@@ -45,3 +45,20 @@ Think of tag expressions as mini-programs running within watch face. They use re
 
 ## Conclusion
 Tag expressions unlock a new level of customization and interactivity for watch face designers. By leveraging these powerful tools, you can create dynamic, informative, and truly unique watch faces that enhance the user experience. Start experimenting, and let your creativity flow!
+
+# Task - 3 : An android application to fetch the geo-location of the device
+## Features
+- Fetatch the coordinates of current location
+- Show it on screen with a `TextView`
+- Show the current location on a map
+- Update the location data everty 10 min
+
+## Implementation
+- __Step-1__: Create an android application using Android studio. I set the language to `Java`.
+- __Step-2__: Add a `TextView` for location text and a `FrameLayout` for showing the map.
+- __Step-3__: Add permissions to the `AndroiedManifest.xml` file
+- __Step-3__: Set the api key to metadata `AndroiedManifest.xml` file
+- __Step-4__: On mainactivity.java, fetch the current location using set it to `TextView(locationText)` and map location to `FrameLayoutView(mapFragment)`
+- __Step-5__: Update the location on every 10 minutes using `requestLocationUpdates()` method
+
+### Project link - 
