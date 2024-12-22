@@ -62,3 +62,4 @@ Tag expressions unlock a new level of customization and interactivity for watch 
 - __Step-5__: Update the location on every 10 minutes using `requestLocationUpdates()` method
 
 ### Project link - 
+[Android Project Link](https://github.com/habibur-rahman-swe/samsung-assesment-intern/tree/main/Android)
