@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GL Application</string>
+    <string name="fetching_location">Fetching location...</string>
+</resources>
